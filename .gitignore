@@ -1,0 +1,28 @@
+# Flutter/Dart/Pub related
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+coverage/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Api keys
+lib/constants/api_keys.dart
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
