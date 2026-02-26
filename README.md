@@ -17,7 +17,10 @@ WhatsUp is a cross-platform mobile application built using Flutter that supports
 - Agora SDK
 
 ## Screenshots
-(Add your app screenshots here)
+
+| Sign Up | Chat List | Group Chat | Settings |
+|:-:|:-:|:-:|:-:|
+| ![Sign Up](screenshots/signup.jpeg) | ![Chat List](screenshots/chatlist.jpeg) | ![Group Chat](screenshots/groupchat.jpeg) | ![Settings](screenshots/settings.jpeg) |
 
 ## How to Run
 1. Clone the repository
